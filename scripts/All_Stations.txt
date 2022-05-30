@@ -1,0 +1,41 @@
+Basin,Station,SM_col,St_num,River,a,b,c,d,suffix,nudge,shift,report
+
+10AA001,10AA001,34,1,Liard River at Upper Crossing,285.87,-1.215,1.1354,0,10K-old,1,0,0
+10AA001-MRB,10AA001,100,1,Liard River at Upper Crossing,285.87,-1.215,1.1354,0,10K,1,0,1
+
+10AA001,10AA006,34,2,Liard River below Scurvy Creek,NA,NA,NA,0,10K-old,0,0,0
+10AA001-MRB,10AA006,100,2,Liard River below Scurvy Creek,NA,NA,NA,0,10K,0,0,0
+
+09EA003,09EA003,49,1,Klondike River above Bonanza Creek,NA,NA,NA,0,5K,1,0,0
+09ED001,09EA003,37,21,Klondike River above Bonanza Creek,NA,NA,NA,0,10K,1,0,1
+
+09DC006,09DC006,34,1,Stewart River near Mayo,102,-2.1,1.78,0,10K-old,1,0,0
+09DD003,09DC006,49,4,Stewart River near Mayo,102,-2.1,1.78,0,5K,1,0,0
+09ED001,09DC006,37,34,Stewart River near Mayo,102,-2.1,1.78,0,10K,1,0,1
+
+09DD003,09DD003,49,6,Stewart River at the Mouth,NA,NA,NA,0,5K,1,0,0
+09ED001,09DD003,37,19,Stewart River at the Mouth,NA,NA,NA,0,10K,1,0,1
+
+09BC002,09BA001,34,1,Ross River at Ross River,NA,NA,NA,0,10K-old,1,0,0
+09BC001,09BA001,49,2,Ross River at Ross River,NA,NA,NA,0,5K,1,0,0
+09ED001,09BA001,37,11,Ross River at Ross River,NA,NA,NA,0,10K,1,0,1
+
+09BC002,09BC002,34,2,Pelly River at Ross River,56,0.43,2.29,0,10K-old,1,0,0
+09BC001,09BC002,49,8,Pelly River at Ross River,56,0.43,2.29,0,5K,1,0,0
+09ED001,09BC002,37,33,Pelly River at Ross River,56,0.43,2.29,0,10K,1,0,1
+
+09BC001,09BC004,49,4,Pelly River below vanGorda Creek,NA,NA,NA,0,5K,1,0,0
+09ED001,09BC004,37,13,Pelly River below vanGorda Creek,NA,NA,NA,0,10K,1,0,1
+
+09BC001,09BC001,49,5,Pelly River at Pelly Crossing,NA,NA,NA,0,5K,1,0,0
+09ED001,09BC001,37,12,Pelly River at Pelly Crossing,NA,NA,NA,0,10K,1,0,1
+
+09AB001,09AB001,34,1,Yukon River at Whitehorse,117.563,-27.80,1.447,0,10K-old,1,0,0
+09ED001,09AB001,37,4,Yukon River at Whitehorse,117.563,-27.80,1.447,0,10K,1,0,1
+
+White,09CB001,49,5,White River at km 1881.6 Alaska Highway,NA,NA,NA,0,5K,1,0,0
+09ED001,09CB001,37,16,White River at km 1881.6 Alaska Highway,NA,NA,NA,0,10K,1,0,1
+
+09ED001,09AH001,37,34,Yukon River at Carmacks,136.0972,0,1.7177,0,10K,1,0,1
+
+09ED001,09EB001,37,29,Yukon River at Dawson,0,160.25,877.05,804.39,10K,1,0,1

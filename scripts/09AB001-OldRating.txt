@@ -1,0 +1,4 @@
+Basin,Station,SM_col,St_num,River,a,b,c,d,suffix,nudge,shift,report
+
+09AB001,09AB001,34,1,Yukon River at Whitehorse,291.42,0,1,8323.9,10K-old,1,0,0
+09ED001,09AB001,37,4,Yukon River at Whitehorse,291.42,0,1,8323.9,10K,1,0,1

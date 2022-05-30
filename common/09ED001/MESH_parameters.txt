@@ -1,0 +1,4 @@
+! TXT (free-format) MESH configuration file.
+ 
+! Routing parameters (RTE)
+DTMINUSR         600   !sec

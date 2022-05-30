@@ -1,0 +1,34 @@
+Hi Holly, 
+
+Please find attached today's forecast support charts. 
+
+Notes:
+
+New
+- Activated water level outputs for 6 lakes
+
+Earlier
+- I stopped issuing '09EB001-WSCRating' file because WSC is reporting provisional discharge and thus we are not applying a rating curve to convert levels. Therefore, the contents of that file are identical to page 12 of the main file which contains all stations.
+- Following the WSC staff visits and adjustments of ratings to some stations, I activated nudging. Stations 09BA001, 09BC004 are not reporting provisional discharge despite being continuous stations (they used to report discharge in past years). This year they reported provisional discharge till end of Mar 23,2022.
+- For clarity, the legend entries for "gauged_short" and "gauged_long" have been updated as follows:
+	- when the WSC gauge has provisional discharge, they are named "WSC real-time" and "WSC near real-time", respectively
+	- when the WSC gauge has levels only, they are named "Est real-time" and "Est near real-time", respectively as they are estimated based on the rating curve whose equation is given on the third line of the chart title
+	- for water level charts, the legend entries are always "WSC real-time" and "WSC near real-time"
+	
+Best regards, 
+
+ME  
+=============================================================================== 
+Mohamed Elshamy, PhD 
+
+Research Scientist, GWF Core Modelling Team Member 
+
+Professional Affiliate of the School for Environment and Sustainability (SENS) 
+
+Global Institute for Water Security & Centre for Hydrology 
+
+National Hydrology Research Centre 
+
+11 Innovation Boulevard 
+
+Saskatoon, SK   S7N 3H5 
