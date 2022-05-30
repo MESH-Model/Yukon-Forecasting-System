@@ -2,3 +2,6 @@ This foloder contains all the scripts and configuration files used to run the Yu
 1- shell scripts (.sh)
 2- AWK scripts (.awk)
 3- R scripts (.R)
+
+The main script (Forecast_Driver.sh) is scheduled to run automatically using crontab passing the required stage to be run at certain times of the day
+ 
