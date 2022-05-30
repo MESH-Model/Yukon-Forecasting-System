@@ -1,0 +1,4 @@
+This foloder contains all the scripts and configuration files used to run the Yukon Forecasting System on the AWS Cloud. Configuration files are txt files, there are three types of scripts:
+1- shell scripts (.sh)
+2- AWK scripts (.awk)
+3- R scripts (.R)
