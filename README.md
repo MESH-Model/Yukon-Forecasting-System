@@ -3,3 +3,5 @@ The Yukon Forecasting System consists of a set of scripts and configruation file
 scripts: contains the scripts used to run the Yukon Forecasting System on the AWS cloud (or any similar Linux System) and the configuration files
 common: contains the static model setup files - only the 10Km Yukon@Eagle setup is included in a subfolder named after the outlet WSC gauge ID (09ED01) 
 templates: contains semi-static model setup files: MESH_input_run_options.template.ini and MESH_input_parameters_CLASS.template.ini where these are edited at run time to specifiy the initial and final run times and start of forcing. Other options/parameters remain static.
+
+More details are given in the report titled: Yukon River Basin Streamflow Forecasting System, available from https://research-groups.usask.ca/hydrology/documents/reports/chrpt16_yukon-river-basin-streamflow-forecasting-system_-finalreport_2020.pdf
