@@ -1,7 +1,6 @@
-This foloder contains all the scripts and configuration files used to run the Yukon Forecasting System on the AWS Cloud. Configuration files are txt files, there are three types of scripts:
+This foloder contains all the scripts and configuration files used to run the Yukon Forecasting System on the AWS Cloud. Configuration files are .txt files, there are three types of scripts:
 1- shell scripts (.sh)
 2- AWK scripts (.awk)
 3- R scripts (.R)
 
-The main script (Forecast_Driver.sh) is scheduled to run automatically using crontab passing the required stage to be run at certain times of the day
- 
+The main script (Forecast_Driver.sh) is scheduled to run automatically using crontab passing the required stage to be run at certain times of the day based on the availibility of ECCC data for download. It then calls the required scripts to download and process GDPS, RDPS, and RDPA data from ECCC datamart for the model configurations defined and then runs MESH first in hindcast mode to update the intiial conditions and then in forecast mode. Finally the outputs are processed to produce the plots that are emailed to the client (Yukon Govenment).
