@@ -17,8 +17,8 @@ scripts_file_path=$home_dir/scripts
 
 smtpserver=email-smtp.us-east-2.amazonaws.com
 smtpport=587
-user=AKIAXEOND72JKCPTJQ5O
-password=BMvYnvJ4U0ed+8zTX/GsFDCxg5Dfdxz5vW/MgztwlI8Z
+user=some_user
+password=some_password
 
 #from="youssef.loukili@usask.ca"
 from="mohamed.elshamy@usask.ca"
